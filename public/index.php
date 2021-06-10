@@ -14,7 +14,7 @@
                     <li><a href="#about_me">About me</a></li>
 					<li><a href="#skills">Skills</a></li>
                     <li><a href="#expirience">Expirience</a></li>
-                    <li><a href="#about_me">About me</a></li>
+                    <li><a href="#contact">Contact</a></li>
                 </ul>
             </nav>  
         </header>    
@@ -47,7 +47,7 @@
 				<p>02/2016 -07/2016, Internship at Optimum Web</p>
 			</section>		
 
-           <section id="about_me">
+           <section id="contact">
 		   <h2>Contact</h2>
 				<ul>
 					<li>Tel:<a href="tel:+1234567890">+1234567890</a></li>
