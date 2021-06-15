@@ -5,47 +5,42 @@ body{
 
 section h2{
     font-size: 28px;
-    color:rgb(24, 0, 0);
+    color: goldenrod;
 }
 
 /* Section navigation */
-nav{
+nav#navigation{
      overflow: auto;
-    
     }
 
-nav ul li{
+nav#navigation ul li{
     list-style-type: none;
     margin: 5px 5px;
     float: left;
-    color: rgb(102, 23, 230);   
+
 }
 
-nav ul li:first-child{
-    margin-left: none;
+nav#navigation ul li:first-child{
+    margin-left: 10px;
 }
 
-nav ul li a{
-    font-size: 22px;
+nav#navigation ul li a{
+    font-size: 24px;
     text-decoration: none;
+    color: rgb(7, 103, 148);
 
 }
 
-nav ul li a:hover{
+nav#navigation ul li a:hover{
     color:rgb(185, 18, 18); 
 }
-
-/* nav ul li a:active{
-    color:red;  
-} */
-
-/* nav ul li a:visited{
-    color:black;  
-} */
 
 /* Section about me */
 section#about_me p{
     font-size: 24px;
+    color: rgb(223, 83, 2);
+    text-align: center;
+    margin: 30px 0 ;
 }
 
 /* Section skills */
@@ -66,6 +61,11 @@ section#contact ul li{
     margin: 10px 0;
 }
 
-footer div{
+/*Section footer */
+#footer section#date{
     text-align: center;
+}
+
+#footer section#date {
+    margin-top: 25px;
 }

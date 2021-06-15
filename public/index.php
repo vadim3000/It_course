@@ -5,6 +5,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Vadim Golban CV</title>
+
+    <link rel="stylesheet" href="assets/style.css">
+
 </head>
     <body>
         <header>
@@ -68,7 +71,9 @@
 
     <footer id="footer">
 			<section id="date">
+                <p>
 				<?php echo "Today is " . date("Y/m/d H:i:s"); ?>
+                </p>
 			</section>
 	</footer>
     </body>
