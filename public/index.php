@@ -70,10 +70,8 @@
 	</section>
 
     <footer id="footer">
-			<section id="date">
-                <p>
-				<?php echo "Today is " . date("Y/m/d H:i:s"); ?>
-                </p>
+			<section id="date">				
+                <?php echo "Today is " . date("Y/m/d H:i:s"); ?>
 			</section>
 	</footer>
     </body>
