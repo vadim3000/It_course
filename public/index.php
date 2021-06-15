@@ -68,7 +68,9 @@
 
     <footer id="footer">
 			<section id="date">
+                <p>
 				<?php echo "Today is " . date("Y/m/d H:i:s"); ?>
+                </p>
 			</section>
 	</footer>
     </body>
