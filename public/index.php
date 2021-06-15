@@ -50,7 +50,7 @@
            <section id="contact">
 		         <h2>Contact</h2>
 				    <ul>
-                        <li>Tel:<a href="tel:+1234567890">+1234567890</a></li>
+                        <li>Tel:<a href="tel:+1234567890">+12345690</a></li>
                         <li>Email: vadimgolban3000@gmail.com</li>
                         <li>Address: city Chisinau Drumul Viilor str.</li>
                         <li>Linkedin profile link: https://www.linkedin.com/in/vadim-golban-27a61b156/</li>
