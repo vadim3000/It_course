@@ -13,13 +13,15 @@
                 <ul>
                     <li><a href="#about_me">About me</a></li>
 					<li><a href="#skills">Skills</a></li>
+					<li><a href="#education">Education</a></li>
                     <li><a href="#expirience">Expirience</a></li>
+					<li><a href="#my_work">My work</a></li>
                     <li><a href="#contact">Contact</a></li>
                 </ul>
             </nav>  
         </header>    
 
-	<section id="main">
+		<section id="main">
 			<section id="about_me">
 				<p>
 					Hello My Name is Vadim, I'm working as QA Engineer, and I'm curious about IT and Web Developing. 
@@ -28,7 +30,7 @@
 			</section>
 
 			<section id="skills">
-				<h2>My Skills</h3>
+				<h2>My Skills</h2>
 				<ul>
 					<li>Html and CSS</li>
 					<li>Manual Testing</li>
@@ -39,15 +41,33 @@
 					<li>Laravel</li>
 				</ul>
 			</section>	
-			
+		
+			<section id="education">
+			<h2>My Education</h2>
+				<ul>
+					<li>State University of Moldova, Faculty of Economics, specialty  "Business & Management".</li>
+					<li>Master degree. Academy of Economic Studies of Moldova, specialty “Marketing Management”</li>
+					<li>Endava Testing course”</li>
+				</ul>
+			</section>	
+
 			<section id="expirience">
-				<h2>My expirience</h3>
+				<h2>My expirience</h2>
 				<p>10/2019 - now, QA Engineer at Picanova Group</p>
                 <p>10/2018 - 04.2019, Endava Testing Course</p>
 				<p>02/2016 - 07/2016, Internship at Optimum Web</p>
 			</section>		
 
-           <section id="contact">
+           
+			<section id="my_work">
+				<h2>My work examples:</h2>
+				<ul>
+					<li><a href="https://bitbucket.org/VadimGolban/mein_foto_automation_test/src/master/">Automation Framework, on Java and selenium</a></li>
+					<li><a href="https://bitbucket.org/VadimGolban/project_news">News site project, based on Php Symfony Framework</a></li>
+				</ul>
+			</section>
+			
+			<section id="contact">
 		         <h2>Contact</h2>
 				    <ul>
                         <li>Tel:<a href="tel:+1234567890">+12345690</a></li>
