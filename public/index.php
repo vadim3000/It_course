@@ -39,6 +39,8 @@
 					<li>PHP</li>
 					<li>MySql</li>
 					<li>Laravel</li>
+					<li>Linux/Ubuntu_OS</li>
+					<li>Git</li>
 				</ul>
 			</section>	
 		
@@ -47,7 +49,7 @@
 				<ul>
 					<li>State University of Moldova, Faculty of Economics, specialty  "Business & Management".</li>
 					<li>Master degree. Academy of Economic Studies of Moldova, specialty “Marketing Management”</li>
-					<li>Endava Testing course”</li>
+					<li>"Endava Testing course”</li>
 				</ul>
 			</section>	
 
@@ -62,8 +64,8 @@
 			<section id="my_work">
 				<h2>My work examples:</h2>
 				<ul>
-					<li><a href="https://bitbucket.org/VadimGolban/mein_foto_automation_test/src/master/">Automation Framework, on Java and selenium</a></li>
-					<li><a href="https://bitbucket.org/VadimGolban/project_news">News site project, based on Php Symfony Framework</a></li>
+					<li><a href="https://bitbucket.org/VadimGolban/mein_foto_automation_test/src/master/" target="_blank">Automation Framework, on Java and selenium</a></li>
+					<li><a href="https://bitbucket.org/VadimGolban/project_news" target="_blank">News site project, based on Php Symfony Framework</a></li>
 				</ul>
 			</section>
 			
