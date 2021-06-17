@@ -12,8 +12,8 @@
             <nav id="navigation">
                 <ul>
                     <li><a href="#about_me">About me</a></li>
-					<li><a href="#skills">Skills</a></li>
 					<li><a href="#education">Education</a></li>
+					<li><a href="#skills">Skills</a></li>
                     <li><a href="#expirience">Expirience</a></li>
 					<li><a href="#my_work">My work</a></li>
                     <li><a href="#contact">Contact</a></li>
@@ -26,8 +26,18 @@
 				<p>
 					Hello My Name is Vadim, I'm working as QA Engineer, and I'm curious about IT and Web Developing. 
 				</p>
-				<img id="avatar_img"src="assets/images/my_avatar_image.jpg" alt="Vadim_Golban_avatar_image" width="250px" height="250px">
 			</section>
+            
+			<section id="education">
+			<h2>My Education</h2>
+				<ul>
+					<li>State University of Moldova, Faculty of Economics, specialty  "Business & Management".</li>
+					<li>Master degree. Academy of Economic Studies of Moldova, specialty “Marketing Management”</li>
+					<li>"Endava Testing course”</li>
+				</ul>
+
+				<img id="avatar_img"src="assets/images/my_avatar_image.jpg" alt="Vadim_Golban_avatar_image" width="250px" height="250px">
+			</section>	
 
 			<section id="skills">
 				<h2>My Skills</h2>
@@ -44,15 +54,6 @@
 				</ul>
 			</section>	
 		
-			<section id="education">
-			<h2>My Education</h2>
-				<ul>
-					<li>State University of Moldova, Faculty of Economics, specialty  "Business & Management".</li>
-					<li>Master degree. Academy of Economic Studies of Moldova, specialty “Marketing Management”</li>
-					<li>"Endava Testing course”</li>
-				</ul>
-			</section>	
-
 			<section id="expirience">
 				<h2>My expirience</h2>
 				<p>10/2019 - now, QA Engineer at Picanova Group</p>
