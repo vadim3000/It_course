@@ -32,8 +32,8 @@
 			</section>
             
 			<section id="education">
-				<h2>My Education</h2>
 				<div id="float_block-1">
+				<h2>My Education</h2>
 					<ul>
 						<li>State University of Moldova, Faculty of Economics, specialty  "Business & Management".</li>
 						<li>Master degree. Academy of Economic Studies of Moldova, specialty “Marketing Management”</li>
