@@ -44,30 +44,30 @@ section#about_me p{
 }
 
 /* Position education */
-section#education #block{ 
-/* float: left; */
-}
-div#float_block-1{
-    border: 1px solid black;
+section#education div#float_block-1{
     float: left;
-}    
-div#float_block-2{
     border: 1px solid black;
-
+}    
+section#education div#float_block-2{
+    float: right;
+    border: 1px solid black;
 }
 section#education{
-    /* position: relative; */
-    height: 300px;
-    border: 2px solid goldenrod;;
+    overflow: auto;
+    height: 450x;
 }
 
 section#education img{
-    float: right;
-    border: 2px solid goldenrod;;
+    border: 2px solid goldenrod;
     border-radius: 25px;
 }
 
-/* Section skills */
+div#float_block-1 ul li{
+    font-size: 20px;
+    list-style-type: none;
+    margin: 10px 0;
+}
+
 section#skills ul li{
     font-size: 22px;
 }
@@ -84,6 +84,24 @@ section#contact ul li{
     list-style-type: none;
     margin: 10px 0;
 }
+
+
+/* Section my work examples */
+section#my_work ul li {
+    margin-top: 10px;
+    list-style-type: none;
+    font-size: 20px;
+}
+
+section#my_work ul li a{
+    color: darkblue;
+    text-decoration: none;
+}
+
+section#my_work ul li a:hover{
+    color: orangered; 
+}
+
 
 /*Section footer */
 #footer section#date{
