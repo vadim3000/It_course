@@ -101,9 +101,13 @@ section#contact ul li{
     margin: 10px 0;
 }
 
+section#contact ul li a{
+    text-decoration: none;
+}
+
 span.contact-list{ 
-    font-size: 24px;
-    color: peru;
+    font-size: 26px;
+    color: chocolate;
 }
 
 /*Section footer */
