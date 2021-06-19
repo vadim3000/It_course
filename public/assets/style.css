@@ -44,10 +44,17 @@ section#about_me p{
 }
 
 /* Position education */
-section#education h2 + ul li{ 
+section#education #block{ 
 /* float: left; */
 }
+div#float_block-1{
+    border: 1px solid black;
+    float: left;
+}    
+div#float_block-2{
+    border: 1px solid black;
 
+}
 section#education{
     /* position: relative; */
     height: 300px;
