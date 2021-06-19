@@ -93,15 +93,10 @@
 	</section>
 
     <footer id="footer">
-<<<<<<< HEAD
-			<section id="date">				
-                <?php echo "Today is " . date("Y/m/d H:i:s"); ?>
-=======
 			<section id="date">
                 <p>
 				<?php echo "Today is " . date("Y/m/d H:i:s"); ?>
                 </p>
->>>>>>> html
 			</section>
 	</footer>
     </body>
