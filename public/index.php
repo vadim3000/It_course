@@ -29,14 +29,17 @@
 			</section>
             
 			<section id="education">
-			<h2>My Education</h2>
-				<ul>
-					<li>State University of Moldova, Faculty of Economics, specialty  "Business & Management".</li>
-					<li>Master degree. Academy of Economic Studies of Moldova, specialty “Marketing Management”</li>
-					<li>"Endava Testing course”</li>
-				</ul>
-
-				<img id="avatar_img"src="assets/images/my_avatar_image.jpg" alt="Vadim_Golban_avatar_image" width="250px" height="250px">
+				<h2>My Education</h2>
+				<div id="float_block-1">
+					<ul>
+						<li>State University of Moldova, Faculty of Economics, specialty  "Business & Management".</li>
+						<li>Master degree. Academy of Economic Studies of Moldova, specialty “Marketing Management”</li>
+						<li>"Endava Testing course”</li>
+					</ul>
+				</div>
+				<div id="float_block-2">
+					<img id="avatar_img"src="assets/images/my_avatar_image.jpg" alt="Vadim_Golban_avatar_image" width="250px" height="250px">
+				</div>
 			</section>	
 
 			<section id="skills">
