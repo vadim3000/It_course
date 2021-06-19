@@ -16,31 +16,31 @@
         	<header>
 				<div class="row">
 					<h1 class="text-dark">Vadim Golban CV</h1>
-				
 					<nav class="navbar navbar-expand-lg navbar-light bg-warning mt-1">
-  <div class="container-fluid">
-    <a class="navbar-brand" href="#about_me">About me</a>
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="navbarNav">
-      <ul class="navbar-nav">
-        <li class="nav-item">
-          <a class="nav-link" aria-current="page" href="#education">Education</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#skills">Skills</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#my_work">My work</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#contact">Contact</a>
-        </li>
-      </ul>
-    </div>
-  </div>
-</nav>
+							<div class="container-fluid">
+								<a class="navbar-brand" href="#about_me">About me</a>
+									<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+										<span class="navbar-toggler-icon"></span>
+									</button>
+									<div class="collapse navbar-collapse" id="navbarNav">
+									<ul class="navbar-nav">
+										<li class="nav-item">
+											<a class="nav-link" aria-current="page" href="#education">Education</a>
+										</li>
+										<li class="nav-item">
+											<a class="nav-link" href="#skills">Skills</a>
+										</li>
+										<li class="nav-item">
+											<a class="nav-link" href="#my_work">My work</a>
+										</li>
+										<li class="nav-item">
+											<a class="nav-link" href="#contact">Contact</a>
+										</li>
+									</ul>
+							</div>
+						</div>
+					</nav>
+				
 
 				<!-- <nav id="navigation"> -->
 				<!-- <ul>
