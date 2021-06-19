@@ -79,10 +79,10 @@
 			<section id="contact">
 		         <h2>Contact</h2>
 				    <ul>
-                        <li><span class="contact-list">Tel:</span><a href="tel:+1234567890">    +12345690</a></li>
-                        <li><span class="contact-list">Email: vadimgolban3000@gmail.com</span></li>
-                        <li><span class="contact-list">Address: city Chisinau Drumul Viilor str.</span></li>
-                        <li><span class="contact-list">Linkedin profile link: https://www.linkedin.com/in/vadim-golban-27a61b156/</span></li>
+                        <li><span class="contact-list">Tel:</span><a href="tel:+1234567890"> +12345690</a></li>
+                        <li><span class="contact-list">Email:</span> vadimgolban3000@gmail.com</li>
+                        <li><span class="contact-list">Address:</span> City Chisinau Drumul Viilor 111 str, apt 88</li>
+                        <li><span class="contact-list">Social network:</span><a href="https://www.linkedin.com/in/vadim-golban-27a61b156/"> Linkedin profile link<a></li>
 				    </ul>
 		   </section>
 
