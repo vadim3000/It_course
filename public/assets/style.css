@@ -46,11 +46,11 @@ section#about_me p{
 /* Position education */
 section#education div#float_block-1{
     float: left;
-    border: 1px solid black;
+    /* border: 1px solid black; */
 }    
 section#education div#float_block-2{
     float: right;
-    border: 1px solid black;
+    /* border: 1px solid black; */
 }
 section#education{
     overflow: auto;
@@ -78,14 +78,6 @@ section#expirience p{
     margin-left: 20px;
 }
 
-/* Section contact */
-section#contact ul li{
-    font-size: 22px;
-    list-style-type: none;
-    margin: 10px 0;
-}
-
-
 /* Section my work examples */
 section#my_work ul li {
     margin-top: 10px;
@@ -102,6 +94,17 @@ section#my_work ul li a:hover{
     color: orangered; 
 }
 
+/* Section contact */
+section#contact ul li{
+    font-size: 22px;
+    list-style-type: none;
+    margin: 10px 0;
+}
+
+span.contact-list{ 
+    font-size: 24px;
+    color: peru;
+}
 
 /*Section footer */
 #footer section#date{
