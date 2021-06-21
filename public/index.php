@@ -60,7 +60,7 @@
 			<section id="about_me">
 				<div class="row">
 					<div class="col-md-12">
-						<p class="blockquote mt-5">
+						<p class="blockquote mt-5 h1 text-success">
 							Hello My Name is Vadim, I'm working as QA Engineer, and I'm curious about IT and Web Developing. 
 						</p>
 					</div>	
