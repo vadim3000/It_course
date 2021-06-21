@@ -9,7 +9,9 @@
 	    <!-- Bootstrap CSS -->
 		<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
 		<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-gtEjrD/SeCtmISkJkNUaaKMoLD0//ElJ19smozuHV6z3Iehds+3Ulb9Bn9Plx0x4" crossorigin="anonymous"></script>
+		<link rel="stylesheet" href="assets/style_bootstrap.css">
 		<!-- <link rel="stylesheet" href="assets/style.css"> -->
+
 </head>
     <body>
 		<div class="container">
@@ -40,18 +42,6 @@
 							</div>
 						</div>
 					</nav>
-				
-
-				<!-- <nav id="navigation"> -->
-				<!-- <ul>
-						<li><a href="#about_me">About me</a></li>
-						<li><a href="#education">Education</a></li>
-						<li><a href="#skills">Skills</a></li>
-						<li><a href="#expirience">Expirience</a></li>
-						<li><a href="#my_work">My work</a></li>
-						<li><a href="#contact">Contact</a></li>
-					</ul>
-				</nav> -->
 	</div> 
     </header>    
 
@@ -78,10 +68,10 @@
 						</ul>
 				</div>
 				<div class="col-md-4">
-					<div class="card" style="width: 18rem;">
-						<img src="assets/images/my_avatar_image.jpg" class="card-img-top" alt="Vadim_Golban_avatar_image"">
+					<div id="logo-img" class="card">
+						<img  src="assets/images/my_avatar_image.jpg" class="card-img-top" alt="Vadim_Golban_avatar_image">
 						<div class="card-body">
-							<p class="card-text">Vadim Golban QA Engineer</p>
+							<p class="card-text text-center">Vadim Golban QA Engineer</p>
 						</div>
 					</div>
 				</div>
@@ -135,7 +125,7 @@
                         	<li class="list-group-item"><span class="contact-list">Tel:</span><a href="tel:+1234567890"> +12345690</a></li>
                         	<li class="list-group-item"><span class="contact-list">Email:</span> vadimgolban3000@gmail.com</li>
                         	<li class="list-group-item"><span class="contact-list">Address:</span> City Chisinau Drumul Viilor 111 str, apt 88</li>
-                        	<li class="list-group-item"><span class="contact-list">Social network:</span><a href="https://www.linkedin.com/in/vadim-golban-27a61b156/"> Linkedin profile link<a></li>
+                        	<li class="list-group-item"><span class="contact-list">Social network:</span><a href="https://www.linkedin.com/in/vadim-golban-27a61b156/"> Linkedin profile link</a></li>
 				   		</ul>
 					</div>
 				</div>
