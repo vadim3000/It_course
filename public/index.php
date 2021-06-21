@@ -38,7 +38,7 @@
 					</ul>
 				</div>
 				<div id="float_block-2">
-					<img id="avatar_img"src="assets/images/my_avatar_image.jpg" alt="Vadim_Golban_avatar_image" width="250px" height="250px">
+					<img id="avatar_img" src="assets/images/my_avatar_image.jpg" alt="Vadim_Golban_avatar_image" width="250px" height="250px">
 				</div>
 			</section>	
 
