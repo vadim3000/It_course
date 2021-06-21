@@ -1,0 +1,118 @@
+body{
+    background-color:  rgb(250, 250, 250);
+    font-family: Arial,sans-serif;
+}
+
+section h2{
+    font-size: 28px;
+    color: goldenrod;
+}
+
+/* Section navigation */
+nav#navigation{
+     overflow: auto;
+    }
+
+nav#navigation ul li{
+    list-style-type: none;
+    margin: 5px 5px;
+    float: left;
+
+}
+
+nav#navigation ul li:first-child{
+    margin-left: 10px;
+}
+
+nav#navigation ul li a{
+    font-size: 24px;
+    text-decoration: none;
+    color: rgb(7, 103, 148);
+
+}
+
+nav#navigation ul li a:hover{
+    color:rgb(185, 18, 18); 
+}
+
+/* Section about me */
+section#about_me p{
+    font-size: 24px;
+    color: rgb(223, 83, 2);
+    text-align: center;
+    margin: 30px 0 ;
+}
+
+/* Position education */
+section#education div#float_block-1{
+    float: left;
+}    
+section#education div#float_block-2{
+    float: right;
+}
+section#education{
+    overflow: auto;
+    height: 300px;
+}
+
+section#education img{
+    border: 2px solid goldenrod;
+    border-radius: 25px;
+}
+
+div#float_block-1 ul li{
+    font-size: 20px;
+    list-style-type: none;
+    margin: 10px 0;
+}
+
+section#skills ul li{
+    font-size: 22px;
+}
+
+/* Section expirience */
+section#expirience p{
+    font-size: 22px;
+    margin-left: 20px;
+}
+
+/* Section my work examples */
+section#my_work ul li {
+    margin-top: 10px;
+    list-style-type: none;
+    font-size: 20px;
+}
+
+section#my_work ul li a{
+    color: darkblue;
+    text-decoration: none;
+}
+
+section#my_work ul li a:hover{
+    color: orangered; 
+}
+
+/* Section contact */
+section#contact ul li{
+    font-size: 22px;
+    list-style-type: none;
+    margin: 10px 0;
+}
+
+section#contact ul li a{
+    text-decoration: none;
+}
+
+span.contact-list{ 
+    font-size: 26px;
+    color: chocolate;
+}
+
+/*Section footer */
+#footer section#date{
+    text-align: center;
+}
+
+#footer section#date {
+    margin-top: 25px;
+}
